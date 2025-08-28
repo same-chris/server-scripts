@@ -1,0 +1,76 @@
+# Medical / scientific images
+**/*.dcm
+**/*.nrrd
+**/*.nii
+**/*.nii.gz
+**/*.tif
+**/*.tiff
+**/*.png
+**/*.jpg
+**/*.jpeg
+**/*.bmp
+**/*.cr2
+**/*.nef
+**/*.raw
+**/*.heic
+**/*.heif
+
+# Scientific data containers
+**/*.h5
+**/*.hdf5
+**/*.npz
+**/*.npy
+**/*.xdmf
+**/*.msh
+**/*.mesh
+**/*.stl
+**/*.mat
+**/*.nc
+**/*.nc4
+**/*.grib
+**/*.parquet
+**/*.orc
+**/*.arrow
+
+# Archives
+**/*.zip
+**/*.tar
+**/*.tar.gz
+**/*.tgz
+**/*.7z
+**/*.rar
+**/*.gz
+**/*.bz2
+
+# ML / models
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/*.safetensors
+**/*.pb
+**/*.pbtxt
+**/*.onnx
+**/*.tfevents.*
+
+# Media
+**/*.mp4
+**/*.mov
+**/*.avi
+**/*.mkv
+**/*.wav
+**/*.mp3
+
+# Misc binaries / blobs
+**/*.iso
+**/*.bin
+**/*.db
+**/*.sqlite
+**/*.sql
+**/*.pdf
+**/*.doc
+**/*.docx
+**/*.ppt
+**/*.pptx
+**/*.xls
+**/*.xlsx
+
